@@ -28,4 +28,8 @@ When would you want to use a remote repository rather than keeping all your work
 	correct then. it'll be harder to see the difference between the code and maybe easier to
 	obtain the code.
 
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
 
+	every time i have to do a pull request, to colaborate with others, it give you the
+	benefits to control the follow of yhe code.

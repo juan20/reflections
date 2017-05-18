@@ -15,3 +15,17 @@ When would you want to use a remote repository rather than keeping all your work
  	clone it's used when a want to have a copy of the repository either to my local 
  	repository or from github to my local repository, and branches are used when i want 
  	to do experimental change to the code i'm working on.
+
+ What is the benefit of having a copy of the last known state of the remote stored locally?
+
+ 	that you can get the last update of the code and if you want to combine your code to the 
+ 	code it's locally, you are able to do it by using merge.
+
+ How would you collaborate without using Git or GitHub? What would be easier, and what would 
+ be harder?
+
+	copying the code he has and see everything he did, so i can see what i can do better or
+	correct then. it'll be harder to see the difference between the code and maybe easier to
+	obtain the code.
+
+
